@@ -12,7 +12,6 @@
 
 ## ⚙️ Installation & Usage
 
-```bash
 # Clone the repository
 git clone https://github.com/your-username/evergreen.git
 cd evergreen
