@@ -10,10 +10,10 @@
 - **CSV Export** – Auto-generates downloadable CSV files
 - **Live Excel Integration** – Pushes data to a connected Excel sheet
 
-## ⚙️ Installation & Usage
+### ⚙️ Installation & Usage
 
 # Clone the repository
-git clone https://github.com/your-username/evergreen.git
+git clone https://github.com/MalickMuzamil/evergreen.git
 cd evergreen
 
 # Install dependencies
@@ -24,7 +24,6 @@ npm run dev
 
 # Open in browser
 http://localhost:3000
-```
 
 ## ✨ Features
 
@@ -38,9 +37,9 @@ http://localhost:3000
 
 Deploy Evergreen using modern platform such as:
 
-- Vercelc(evergreen-sable.vercel.app)
+- Vercel(evergreen-sable.vercel.app)
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the MIT License.
 
